@@ -1,5 +1,5 @@
 {
-  "name": "@ajoelp/odometer",
+  "name": "@givelify/odometer",
   "version": "0.4.9",
   "description": "Transition numbers with ease",
   "main": "odometer.js",
